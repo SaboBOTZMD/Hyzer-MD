@@ -15,8 +15,7 @@ let anu = `*─────� DONATE 」 ───*
 └────
 *Note : Mau Donasi Apa Liat Doang Kont*
 
-Contact person Owner:
-wa.me/628815952469 (Owner)`
+Contact person Owner: wa.me/6282145203493 (Owner)`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
