@@ -1,6 +1,6 @@
-global.owner = ['628815952469'] // Put your number here
-global.mods = ['628815952469','6282145203493'] // Want some help?
-global.prems = ['628815952469','6282145203493'] // Premium user has unlimited limit
+global.owner = ['6282145203493'] // Put your number here
+global.mods = ['6282145203493','6282145203493'] // Want some help?
+global.prems = ['6282145203493','6282145203493'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -44,7 +44,7 @@ global.APIKeys = { // APIKey Here
 global.stiker_wait = '*_Bentar Deck Stiker Lagi Dibuatin_*'
 global.packname = ''
 global.author = `Created By Sabo`
-global.wm = 'Sabo Botz' //Nama Bot
+global.wm = 'Sabo MD' //Nama Bot
 global.watermark = © Sabo
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/nakataa1.a'
